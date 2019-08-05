@@ -1,0 +1,20 @@
+{
+  "name": "reactBoiler",
+  "version": "1.0.0",
+  "description": "stripped down React dependencies",
+  "private": true,
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VarCannon/ReactBP.git"
+  },
+  "author": "Trevor Cannon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VarCannon/ReactBP/issues"
+  },
+  "homepage": "https://github.com/VarCannon/ReactBP#readme",
+  "dependencies": {}
+}
